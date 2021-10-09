@@ -6,6 +6,6 @@ excerpt: "NextJS is a the React framework for production, It makes building reac
 isFeatured: true
 ---
 
-# This is a title
+# This is a nextjs2
 
 This is some regular text with a [link](https://google.com)
