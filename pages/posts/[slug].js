@@ -3,7 +3,8 @@ slug란? 고유성을 가지는 웹사이트의 주소를 의미하며 보통 �
 */
 
 import React from "react";
+import PostContent from "./post-detail/post-content";
 
 export default function PostDetailPage() {
-  return <div>테스트용</div>;
+  return <PostContent />;
 }
