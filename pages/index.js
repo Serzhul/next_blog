@@ -11,7 +11,7 @@ export default function HomePage(props) {
         <title>Next Blog</title>
         <meta
           name="description"
-          content="I'm a web developer interested in Front-end development"
+          content="사용자 지향의 프로덕트를 만들기 위해 프론트엔드를 공부중인 개발자입니다."
         ></meta>
       </Head>
       <Profile />

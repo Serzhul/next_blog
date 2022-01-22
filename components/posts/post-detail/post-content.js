@@ -28,6 +28,7 @@ export default function PostContent({ postData }) {
     p(paragraph) {
       const { node } = paragraph;
 
+      console.log(node);
       if (node.children[0].tagName === "img") {
         const image = node.children[0];
 
